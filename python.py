@@ -1,6 +1,6 @@
 generos = ['policial', 'indefinido', 'terror', 'suspense', 'amor']
 #troca o ultimo elemento
-generos[-1] = 'ação'
+generos[-2] = 'ação'
 #adiciona um elemento ao fim
 generos.append('romantico')
 generos.append('drama')
